@@ -6,3 +6,5 @@ email1:token2
 ```
 
 每行一个，邮箱和token之间用 `:` 分隔
+
+# //workers.js由ai直接转换py,未进行测试
