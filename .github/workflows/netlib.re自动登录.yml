@@ -2,7 +2,7 @@ name: netlib.re自动登录
 
 on:
   schedule:
-    - cron: "45 3 3 */3 *"  # 每三个月的第三天的 3:45 运行（UTC时间）
+    - cron: "45 3 3 */2 *"  # 每两个月的第三天的 3:45 运行（UTC时间）
   workflow_dispatch:
 
 jobs:
